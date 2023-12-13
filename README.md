@@ -26,7 +26,7 @@ front-end
 
 React js
 
-npm install
-npm run start
+    npm install
+    npm run start
 
 
